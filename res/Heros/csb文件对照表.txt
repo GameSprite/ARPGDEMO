@@ -1,0 +1,13 @@
+SpellNode.csb
+{
+root(Node)--根节点
+ spell_circle_1(Sprite)--技能1的圈
+   spell_btn1(Button)  --技能1的按钮
+ spell_circle_2(Sprite)--技能2的圈
+   spell_btn2(Button)  --技能2的按钮
+ spell_circle_3(Sprite)--技能3的圈
+   spell_btn3(Button)  --技能3的按钮
+ spell_circle_4(Sprite)--技能4的圈
+   spell_btn4(Button)  --技能4的按钮
+ attack (Button)        --普通攻击的按钮
+ }

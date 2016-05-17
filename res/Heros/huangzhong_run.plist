@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>huangzhong_run0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{92, 129}, {152, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -24}</string>
+			<key>spriteSize</key>
+			<string>{152, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{170, 0}, {152, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_run1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{100, 131}, {144, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{12, -25}</string>
+			<key>spriteSize</key>
+			<string>{144, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 334}, {144, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_run2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{96, 124}, {150, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{11, -21}</string>
+			<key>spriteSize</key>
+			<string>{150, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 114}, {150, 114}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_run3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{89, 121}, {160, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -14}</string>
+			<key>spriteSize</key>
+			<string>{160, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{152, 114}, {160, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_run4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{85, 128}, {168, 112}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -24}</string>
+			<key>spriteSize</key>
+			<string>{168, 112}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {168, 112}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_run5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{95, 131}, {158, 108}}</string>
+			<key>spriteOffset</key>
+			<string>{14, -25}</string>
+			<key>spriteSize</key>
+			<string>{158, 108}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{296, 222}, {158, 108}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_run6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{104, 126}, {142, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{15, -23}</string>
+			<key>spriteSize</key>
+			<string>{142, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{152, 222}, {142, 114}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_run7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{96, 122}, {150, 102}}</string>
+			<key>spriteOffset</key>
+			<string>{11, -13}</string>
+			<key>spriteSize</key>
+			<string>{150, 102}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 230}, {150, 102}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>textureFileName</key>
+		<string>huangzhong_run.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

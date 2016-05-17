@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>sunnuban_spell1_0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{101, 93}, {146, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{14, -6}</string>
+			<key>spriteSize</key>
+			<string>{146, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{406, 302}, {146, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunnuban_spell1_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{103, 94}, {146, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -7}</string>
+			<key>spriteSize</key>
+			<string>{146, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{258, 302}, {146, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunnuban_spell1_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{101, 93}, {208, 148}}</string>
+			<key>spriteOffset</key>
+			<string>{45, -7}</string>
+			<key>spriteSize</key>
+			<string>{208, 148}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{216, 152}, {208, 148}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunnuban_spell1_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{101, 85}, {214, 156}}</string>
+			<key>spriteOffset</key>
+			<string>{48, -3}</string>
+			<key>spriteSize</key>
+			<string>{214, 156}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 158}, {214, 156}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunnuban_spell1_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{103, 94}, {146, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -7}</string>
+			<key>spriteSize</key>
+			<string>{146, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{426, 150}, {146, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunnuban_spell1_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{101, 93}, {208, 148}}</string>
+			<key>spriteOffset</key>
+			<string>{45, -7}</string>
+			<key>spriteSize</key>
+			<string>{208, 148}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{340, 0}, {208, 148}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunnuban_spell1_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{101, 85}, {214, 156}}</string>
+			<key>spriteOffset</key>
+			<string>{48, -3}</string>
+			<key>spriteSize</key>
+			<string>{214, 156}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {214, 156}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunnuban_spell1_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{105, 84}, {128, 156}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -2}</string>
+			<key>spriteSize</key>
+			<string>{128, 156}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 316}, {128, 156}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunnuban_spell1_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{108, 86}, {126, 154}}</string>
+			<key>spriteOffset</key>
+			<string>{11, -3}</string>
+			<key>spriteSize</key>
+			<string>{126, 154}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{130, 316}, {126, 154}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunnuban_spell1_9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{109, 90}, {122, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{10, -5}</string>
+			<key>spriteSize</key>
+			<string>{122, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{216, 0}, {122, 150}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>textureFileName</key>
+		<string>sunnuban_spell1.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

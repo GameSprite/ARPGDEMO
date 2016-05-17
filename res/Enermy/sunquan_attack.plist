@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>sunquan_attack0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{109, 78}, {92, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 1}</string>
+			<key>spriteSize</key>
+			<string>{92, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{218, 234}, {92, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunquan_attack1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{99, 123}, {114, 120}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -23}</string>
+			<key>spriteSize</key>
+			<string>{114, 120}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{246, 0}, {114, 120}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunquan_attack2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{95, 130}, {200, 110}}</string>
+			<key>spriteOffset</key>
+			<string>{35, -25}</string>
+			<key>spriteSize</key>
+			<string>{200, 110}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{218, 122}, {200, 110}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunquan_attack3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{76, 133}, {244, 116}}</string>
+			<key>spriteOffset</key>
+			<string>{38, -31}</string>
+			<key>spriteSize</key>
+			<string>{244, 116}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {244, 116}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunquan_attack4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{99, 127}, {216, 120}}</string>
+			<key>spriteOffset</key>
+			<string>{47, -27}</string>
+			<key>spriteSize</key>
+			<string>{216, 120}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 118}, {216, 120}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunquan_attack5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{119, 120}, {100, 144}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -32}</string>
+			<key>spriteSize</key>
+			<string>{100, 144}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{108, 240}, {100, 144}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunquan_attack6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{117, 111}, {106, 128}}</string>
+			<key>spriteOffset</key>
+			<string>{10, -15}</string>
+			<key>spriteSize</key>
+			<string>{106, 128}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 240}, {106, 128}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunquan_attack7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{119, 104}, {90, 136}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -12}</string>
+			<key>spriteSize</key>
+			<string>{90, 136}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 370}, {90, 136}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>textureFileName</key>
+		<string>sunquan_attack.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

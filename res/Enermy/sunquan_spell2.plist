@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>sunquan_spell2_0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{59, 61}, {186, 178}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 10}</string>
+			<key>spriteSize</key>
+			<string>{186, 178}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 328}, {186, 178}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunquan_spell2_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{80, 70}, {154, 170}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 5}</string>
+			<key>spriteSize</key>
+			<string>{154, 170}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{216, 0}, {154, 170}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunquan_spell2_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{84, 94}, {116, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{-18, -7}</string>
+			<key>spriteSize</key>
+			<string>{116, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{386, 328}, {116, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunquan_spell2_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{78, 108}, {122, 132}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, -14}</string>
+			<key>spriteSize</key>
+			<string>{122, 132}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{372, 0}, {122, 132}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunquan_spell2_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{68, 78}, {214, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{15, 1}</string>
+			<key>spriteSize</key>
+			<string>{214, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {214, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunquan_spell2_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{72, 77}, {208, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{16, 2}</string>
+			<key>spriteSize</key>
+			<string>{208, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 164}, {208, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunquan_spell2_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{78, 75}, {196, 164}}</string>
+			<key>spriteOffset</key>
+			<string>{16, 3}</string>
+			<key>spriteSize</key>
+			<string>{196, 164}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{188, 328}, {196, 164}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>sunquan_spell2_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{67, 85}, {206, 154}}</string>
+			<key>spriteOffset</key>
+			<string>{10, -2}</string>
+			<key>spriteSize</key>
+			<string>{206, 154}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{210, 172}, {206, 154}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>textureFileName</key>
+		<string>sunquan_spell2.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

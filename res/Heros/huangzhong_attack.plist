@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>huangzhong_attack0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{98, 84}, {164, 170}}</string>
+			<key>spriteOffset</key>
+			<string>{20, -9}</string>
+			<key>spriteSize</key>
+			<string>{164, 170}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{222, 176}, {164, 170}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_attack1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{108, 81}, {154, 178}}</string>
+			<key>spriteOffset</key>
+			<string>{25, -10}</string>
+			<key>spriteSize</key>
+			<string>{154, 178}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{388, 0}, {154, 178}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_attack2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{96, 79}, {160, 174}}</string>
+			<key>spriteOffset</key>
+			<string>{16, -6}</string>
+			<key>spriteSize</key>
+			<string>{160, 174}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{226, 0}, {160, 174}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_attack3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{91, 76}, {144, 166}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 1}</string>
+			<key>spriteSize</key>
+			<string>{144, 166}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{388, 180}, {144, 166}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_attack4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{90, 79}, {144, 164}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -1}</string>
+			<key>spriteSize</key>
+			<string>{144, 164}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{222, 348}, {144, 164}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_attack5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{86, 95}, {138, 146}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -8}</string>
+			<key>spriteSize</key>
+			<string>{138, 146}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 352}, {138, 146}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_attack6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{92, 68}, {220, 174}}</string>
+			<key>spriteOffset</key>
+			<string>{42, 5}</string>
+			<key>spriteSize</key>
+			<string>{220, 174}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 176}, {220, 174}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_attack7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{92, 67}, {224, 174}}</string>
+			<key>spriteOffset</key>
+			<string>{44, 6}</string>
+			<key>spriteSize</key>
+			<string>{224, 174}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {224, 174}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>textureFileName</key>
+		<string>huangzhong_attack.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

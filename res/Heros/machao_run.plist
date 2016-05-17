@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>machao_run0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 121}, {192, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{-36, -28}</string>
+			<key>spriteSize</key>
+			<string>{192, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 272}, {192, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>machao_run1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{26, 117}, {198, 130}}</string>
+			<key>spriteOffset</key>
+			<string>{-35, -22}</string>
+			<key>spriteSize</key>
+			<string>{198, 130}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{406, 270}, {198, 130}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>machao_run2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 118}, {206, 128}}</string>
+			<key>spriteOffset</key>
+			<string>{-33, -22}</string>
+			<key>spriteSize</key>
+			<string>{206, 128}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{412, 132}, {206, 128}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>machao_run3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 120}, {212, 130}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -25}</string>
+			<key>spriteSize</key>
+			<string>{212, 130}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{212, 0}, {212, 130}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>machao_run4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 117}, {210, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -24}</string>
+			<key>spriteSize</key>
+			<string>{210, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {210, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>machao_run5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{26, 115}, {210, 132}}</string>
+			<key>spriteOffset</key>
+			<string>{-29, -21}</string>
+			<key>spriteSize</key>
+			<string>{210, 132}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{194, 272}, {210, 132}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>machao_run6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{27, 120}, {206, 132}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -26}</string>
+			<key>spriteSize</key>
+			<string>{206, 132}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{204, 136}, {206, 132}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>machao_run7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{28, 123}, {202, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{-31, -30}</string>
+			<key>spriteSize</key>
+			<string>{202, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 136}, {202, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>machao_run</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>machao_run</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

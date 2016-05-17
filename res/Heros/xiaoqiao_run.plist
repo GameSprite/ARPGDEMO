@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>xiaoqiao_run0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{81, 124}, {124, 172}}</string>
+			<key>spriteOffset</key>
+			<string>{-17, -50}</string>
+			<key>spriteSize</key>
+			<string>{124, 172}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 334}, {124, 172}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>xiaoqiao_run1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{72, 122}, {120, 172}}</string>
+			<key>spriteOffset</key>
+			<string>{-28, -48}</string>
+			<key>spriteSize</key>
+			<string>{120, 172}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{274, 180}, {120, 172}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>xiaoqiao_run2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{64, 118}, {134, 176}}</string>
+			<key>spriteOffset</key>
+			<string>{-29, -46}</string>
+			<key>spriteSize</key>
+			<string>{134, 176}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{138, 180}, {134, 176}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>xiaoqiao_run3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{66, 117}, {136, 182}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, -48}</string>
+			<key>spriteSize</key>
+			<string>{136, 182}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {136, 182}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>xiaoqiao_run4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{76, 125}, {136, 178}}</string>
+			<key>spriteOffset</key>
+			<string>{-16, -54}</string>
+			<key>spriteSize</key>
+			<string>{136, 178}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{138, 0}, {136, 178}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>xiaoqiao_run5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{81, 125}, {118, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{-20, -34}</string>
+			<key>spriteSize</key>
+			<string>{118, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{274, 354}, {118, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>xiaoqiao_run6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{84, 122}, {120, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{-16, -33}</string>
+			<key>spriteSize</key>
+			<string>{120, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{276, 0}, {120, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>xiaoqiao_run7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{75, 118}, {128, 148}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, -32}</string>
+			<key>spriteSize</key>
+			<string>{128, 148}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 184}, {128, 148}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>xiaoqiao_run</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>xiaoqiao_run</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>huangzhong_spell2_0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{69, 84}, {190, 172}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -10}</string>
+			<key>spriteSize</key>
+			<string>{190, 172}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 362}, {190, 172}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_spell2_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{111, 82}, {160, 182}}</string>
+			<key>spriteOffset</key>
+			<string>{31, -13}</string>
+			<key>spriteSize</key>
+			<string>{160, 182}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{480, 186}, {160, 182}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_spell2_10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{76, 62}, {238, 180}}</string>
+			<key>spriteOffset</key>
+			<string>{35, 8}</string>
+			<key>spriteSize</key>
+			<string>{238, 180}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {238, 180}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_spell2_11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{82, 65}, {174, 184}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 3}</string>
+			<key>spriteSize</key>
+			<string>{174, 184}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{420, 0}, {174, 184}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_spell2_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{92, 77}, {178, 184}}</string>
+			<key>spriteOffset</key>
+			<string>{21, -9}</string>
+			<key>spriteSize</key>
+			<string>{178, 184}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{240, 0}, {178, 184}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_spell2_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{79, 74}, {176, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 2}</string>
+			<key>spriteSize</key>
+			<string>{176, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{192, 364}, {176, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_spell2_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{77, 66}, {238, 176}}</string>
+			<key>spriteOffset</key>
+			<string>{36, 6}</string>
+			<key>spriteSize</key>
+			<string>{238, 176}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{240, 186}, {238, 176}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_spell2_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{82, 68}, {172, 176}}</string>
+			<key>spriteOffset</key>
+			<string>{8, 4}</string>
+			<key>spriteSize</key>
+			<string>{172, 176}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 536}, {172, 176}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_spell2_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{93, 71}, {160, 178}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -0}</string>
+			<key>spriteSize</key>
+			<string>{160, 178}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{370, 370}, {160, 178}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_spell2_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{77, 64}, {238, 178}}</string>
+			<key>spriteOffset</key>
+			<string>{36, 7}</string>
+			<key>spriteSize</key>
+			<string>{238, 178}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 182}, {238, 178}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_spell2_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{84, 66}, {172, 178}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 5}</string>
+			<key>spriteSize</key>
+			<string>{172, 178}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{596, 0}, {172, 178}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>huangzhong_spell2_9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{93, 74}, {164, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{15, 2}</string>
+			<key>spriteSize</key>
+			<string>{164, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{174, 536}, {164, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>textureFileName</key>
+		<string>huangzhong_spell2.png</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

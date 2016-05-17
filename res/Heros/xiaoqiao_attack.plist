@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>xiaoqiao_attack0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{17, 117}, {192, 132}}</string>
+			<key>spriteOffset</key>
+			<string>{-47, -23}</string>
+			<key>spriteSize</key>
+			<string>{192, 132}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{200, 340}, {192, 132}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>xiaoqiao_attack1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{15, 107}, {268, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{-11, -16}</string>
+			<key>spriteSize</key>
+			<string>{268, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {268, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>xiaoqiao_attack2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{108, 79}, {176, 166}}</string>
+			<key>spriteOffset</key>
+			<string>{36, -2}</string>
+			<key>spriteSize</key>
+			<string>{176, 166}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{200, 474}, {176, 166}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>xiaoqiao_attack3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{86, 78}, {198, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{25, -2}</string>
+			<key>spriteSize</key>
+			<string>{198, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 308}, {198, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>xiaoqiao_attack4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{86, 72}, {168, 174}}</string>
+			<key>spriteOffset</key>
+			<string>{10, 1}</string>
+			<key>spriteSize</key>
+			<string>{168, 174}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 478}, {168, 174}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>xiaoqiao_attack5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{41, 70}, {250, 176}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 2}</string>
+			<key>spriteSize</key>
+			<string>{250, 176}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{258, 162}, {250, 176}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>xiaoqiao_attack6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{32, 79}, {256, 166}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -2}</string>
+			<key>spriteSize</key>
+			<string>{256, 166}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 140}, {256, 166}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>xiaoqiao_attack7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 86}, {206, 160}}</string>
+			<key>spriteOffset</key>
+			<string>{-33, -6}</string>
+			<key>spriteSize</key>
+			<string>{206, 160}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{270, 0}, {206, 160}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 1024}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>xiaoqiao_attack</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>xiaoqiao_attack</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>zhangfei_spell1_0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{46, 93}, {186, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, -12}</string>
+			<key>spriteSize</key>
+			<string>{186, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{268, 340}, {186, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_spell1_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{47, 106}, {206, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{-10, -13}</string>
+			<key>spriteSize</key>
+			<string>{206, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{456, 282}, {206, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_spell1_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{49, 86}, {208, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, -5}</string>
+			<key>spriteSize</key>
+			<string>{208, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{236, 180}, {208, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_spell1_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{8, 65}, {244, 178}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, 6}</string>
+			<key>spriteSize</key>
+			<string>{244, 178}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {244, 178}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_spell1_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{86, 88}, {234, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{43, -9}</string>
+			<key>spriteSize</key>
+			<string>{234, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 180}, {234, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_spell1_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{54, 97}, {266, 158}}</string>
+			<key>spriteOffset</key>
+			<string>{27, -16}</string>
+			<key>spriteSize</key>
+			<string>{266, 158}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 344}, {266, 158}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_spell1_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{104, 106}, {216, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{52, -17}</string>
+			<key>spriteSize</key>
+			<string>{216, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{246, 0}, {216, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_spell1_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{56, 120}, {264, 118}}</string>
+			<key>spriteOffset</key>
+			<string>{28, -19}</string>
+			<key>spriteSize</key>
+			<string>{264, 118}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{680, 0}, {264, 118}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_spell1_8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{104, 102}, {216, 136}}</string>
+			<key>spriteOffset</key>
+			<string>{52, -10}</string>
+			<key>spriteSize</key>
+			<string>{216, 136}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{446, 144}, {216, 136}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_spell1_9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{106, 103}, {214, 136}}</string>
+			<key>spriteOffset</key>
+			<string>{53, -11}</string>
+			<key>spriteSize</key>
+			<string>{214, 136}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{464, 0}, {214, 136}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 512}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>zhangfei_spell1</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>zhangfei_spell1</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

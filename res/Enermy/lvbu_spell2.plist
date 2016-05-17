@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>lvbu_spell2_0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{26, 81}, {214, 160}}</string>
+			<key>spriteOffset</key>
+			<string>{-27, -1}</string>
+			<key>spriteSize</key>
+			<string>{214, 160}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{218, 688}, {214, 160}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>lvbu_spell2_1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 81}, {216, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{-27, -2}</string>
+			<key>spriteSize</key>
+			<string>{216, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{218, 524}, {216, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>lvbu_spell2_2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 76}, {216, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{-27, -0}</string>
+			<key>spriteSize</key>
+			<string>{216, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 524}, {216, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>lvbu_spell2_3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{25, 71}, {216, 174}}</string>
+			<key>spriteOffset</key>
+			<string>{-27, 2}</string>
+			<key>spriteSize</key>
+			<string>{216, 174}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 348}, {216, 174}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>lvbu_spell2_4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 68}, {218, 178}}</string>
+			<key>spriteOffset</key>
+			<string>{-27, 3}</string>
+			<key>spriteSize</key>
+			<string>{218, 178}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{232, 344}, {218, 178}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>lvbu_spell2_5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 68}, {220, 180}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, 2}</string>
+			<key>spriteSize</key>
+			<string>{220, 180}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{232, 162}, {220, 180}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>lvbu_spell2_6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{24, 65}, {230, 184}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, 3}</string>
+			<key>spriteSize</key>
+			<string>{230, 184}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 162}, {230, 184}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>lvbu_spell2_7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{14, 86}, {306, 160}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -6}</string>
+			<key>spriteSize</key>
+			<string>{306, 160}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {306, 160}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 1024}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>lvbu_spell2</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>lvbu_spell2</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

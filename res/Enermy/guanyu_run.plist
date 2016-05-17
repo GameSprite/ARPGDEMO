@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>guanyu_run0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{59, 89}, {156, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{-23, -10}</string>
+			<key>spriteSize</key>
+			<string>{156, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{300, 0}, {156, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>guanyu_run1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{60, 89}, {148, 164}}</string>
+			<key>spriteOffset</key>
+			<string>{-26, -11}</string>
+			<key>spriteSize</key>
+			<string>{148, 164}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{298, 170}, {148, 164}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>guanyu_run2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{63, 85}, {152, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, -9}</string>
+			<key>spriteSize</key>
+			<string>{152, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 344}, {152, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>guanyu_run3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{65, 81}, {148, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, -5}</string>
+			<key>spriteSize</key>
+			<string>{148, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{148, 170}, {148, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>guanyu_run4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{66, 84}, {146, 170}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, -9}</string>
+			<key>spriteSize</key>
+			<string>{146, 170}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {146, 170}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>guanyu_run5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{65, 88}, {146, 170}}</string>
+			<key>spriteOffset</key>
+			<string>{-22, -13}</string>
+			<key>spriteSize</key>
+			<string>{146, 170}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 172}, {146, 170}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>guanyu_run6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{63, 87}, {150, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{-22, -11}</string>
+			<key>spriteSize</key>
+			<string>{150, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{148, 0}, {150, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>guanyu_run7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{60, 85}, {150, 164}}</string>
+			<key>spriteOffset</key>
+			<string>{-25, -7}</string>
+			<key>spriteSize</key>
+			<string>{150, 164}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{154, 340}, {150, 164}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>guanyu_run</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>guanyu_run</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

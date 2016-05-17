@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>zhangfei_run0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{78, 95}, {132, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{-16, -5}</string>
+			<key>spriteSize</key>
+			<string>{132, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 278}, {132, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_run1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{80, 104}, {128, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{-16, -11}</string>
+			<key>spriteSize</key>
+			<string>{128, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{268, 280}, {128, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_run2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{79, 100}, {134, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{-14, -7}</string>
+			<key>spriteSize</key>
+			<string>{134, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 142}, {134, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_run3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{75, 94}, {140, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, -5}</string>
+			<key>spriteSize</key>
+			<string>{140, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{290, 0}, {140, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_run4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{72, 99}, {144, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{-16, -9}</string>
+			<key>spriteSize</key>
+			<string>{144, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {144, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_run5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{68, 106}, {142, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{-21, -15}</string>
+			<key>spriteSize</key>
+			<string>{142, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{146, 0}, {142, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_run6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{66, 102}, {138, 138}}</string>
+			<key>spriteOffset</key>
+			<string>{-25, -11}</string>
+			<key>spriteSize</key>
+			<string>{138, 138}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{146, 140}, {138, 138}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zhangfei_run7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{70, 93}, {132, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{-24, -3}</string>
+			<key>spriteSize</key>
+			<string>{132, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{134, 280}, {132, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>zhangfei_run</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>zhangfei_run</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>
